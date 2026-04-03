@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "d2639de7d71a1e30",
+    "type": "split",
+    "children": [
+      {
+        "id": "b594b395b2ab3161",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d1216a32bc4ea12d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TI/Banco de dados/Projetos de banco de dados.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Projetos de banco de dados"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "47838e950b3f5e35",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a7731e37f193c57",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "59756eb43eb1aae1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "44cbb66bcb80b015",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1c86dcb12e8ed7cb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f80653b8d4ebb1ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e55ca7b559317a3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5fd463eb007459a0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Português/Ortografia/Sílabas.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Sílabas"
+            }
+          },
+          {
+            "id": "e4a6ddc7bb204404",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Português/Ortografia/Sílabas.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Sílabas"
+            }
+          },
+          {
+            "id": "70aa3732f9c0256c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "826a79ba65a2fbce",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "02b39683ba2e58ee",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Português/Ortografia/Sílabas.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Sílabas"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "d1216a32bc4ea12d",
+  "lastOpenFiles": [
+    "Pasted image 20260121203855.png",
+    "Pasted image 20260120190602.png",
+    "Pasted image 20260120190425.png",
+    "Pasted image 20260120190341.png",
+    "Português/Ortografia/Encontros consonantais.md",
+    "Português/Ortografia/Sílabas.md",
+    "Português/Ortografia/Encontros vocálicos.md",
+    "TI/Banco de dados/Projetos de banco de dados.md",
+    "TI/Banco de dados/Arquitetura em três esquemas.md",
+    "TI/Banco de dados/Propriedades implícitas.md",
+    "TI/Banco de dados/Conceitos básicos.md",
+    "TI/Banco de dados/Etapas de um Projeto de Banco de Dados.md",
+    "Pasted image 20260119184006.png",
+    "Pasted image 20260119184436.png",
+    "Pasted image 20260119184430.png",
+    "Pasted image 20260119184003.png",
+    "Probabilidade e estatística/Apresentação de dados.md",
+    "Conhecimentos bancários/Sistema financeiro nacional/Sistema financeiro nacional (SFN).md",
+    "Conhecimentos bancários/Sistema financeiro nacional",
+    "Conhecimentos bancários",
+    "Atualidades do mercado financeiro/Os bancos na era digital - atualidade, tendência, desafios, internet bancking, etc/Modelos de Negócios - Fintechs, startups e bigtechs.md",
+    "Probabilidade e estatística",
+    "Atualidades do mercado financeiro/Os bancos na era digital - atualidade, tendência, desafios, internet bancking, etc/Introdução a bancos na era digital.md",
+    "Atualidades do mercado financeiro/Os bancos na era digital - atualidade, tendência, desafios, internet bancking, etc",
+    "Atualidades do mercado financeiro",
+    "Welcome.md",
+    "Português/Ortografia",
+    "Português",
+    "TI/Banco de dados",
+    "TI"
+  ]
+}

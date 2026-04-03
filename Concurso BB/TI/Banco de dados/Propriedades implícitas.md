@@ -1,0 +1,3 @@
+* Propriedade #1: um banco de dados representa algum aspecto do mundo real – algumas vezes chamado de Minimundo ou Universo de Discurso. As mudanças no minimundo são refletidas no banco de dados;
+* Propriedade #2: um banco de dados é uma coleção logicamente coerente de dados inter-relacionados com algum significado inerente. Galera, se você tiver uma variedade aleatória de dados, você não tem um banco de dados;
+* Propriedade #3: um banco de dados é projetado, construído e populado com dados para uma finalidade específica. Possui um grupo definido de usuários e algumas aplicações específicas nas quais esses usuários estão interessados.

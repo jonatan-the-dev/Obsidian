@@ -1,0 +1,3 @@
+- Projeto CONCEITUAL do banco de dados (modelagem conceitual), em que é realizado o projeto do esquema conceitual do SGBD;
+- Projeto LÓGICO do banco de dados, em que é feito o mapeamento do Modelo de Dados e o projeto do esquema lógico do SGBD;
+- Projeto FÍSICO, em que é projetado o esquema Interno do banco de dados.

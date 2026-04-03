@@ -1,0 +1,226 @@
+{
+  "main": {
+    "id": "0035a80e974f8afb",
+    "type": "split",
+    "children": [
+      {
+        "id": "223ab0754a26be6b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "957e345653b03dfb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Matérias/Tecnologia da informação/Banco de dados/NoSql/Conceitos básicos.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Conceitos básicos"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b52f3d7f56ff562b",
+    "type": "split",
+    "children": [
+      {
+        "id": "f2328798b0aea62a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1cef0597a2691b45",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2621998cf3c066cb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f02b97da4762bc15",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 285.5
+  },
+  "right": {
+    "id": "af7c1cfc746b9e9e",
+    "type": "split",
+    "children": [
+      {
+        "id": "c24ef45e414a19db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "45a1b08469f97a53",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "ae36cdb1cb19e740",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "6e7397e9ec3fb1a7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7a5ccba54454ae0b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "313dc3a7bd4ecf62",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "957e345653b03dfb",
+  "lastOpenFiles": [
+    "Matérias/Tecnologia da informação/Banco de dados/Esquema.md",
+    "Matérias/Tecnologia da informação/Banco de dados/NoSql/Conceitos básicos.md",
+    "Assets/Pasted image 20260329105219.png",
+    "Tags/NoSql.md",
+    "Matérias/Tecnologia da informação/Banco de dados/Álgebra Relacional/Álgebra Relacional.md",
+    "Matérias/Tecnologia da informação/Banco de dados/NoSql",
+    "Assets/Pasted image 20260315153052.png",
+    "Assets/Pasted image 20260315152615.png",
+    "Tags/Algebra Relacional.md",
+    "Matérias/Tecnologia da informação/Banco de dados/Conceitos e Fundamentos de Modelo Relacional/Conceitos e fundamentos.md",
+    "Matérias/Tecnologia da informação/Banco de dados/Álgebra Relacional",
+    "Assets/Pasted image 20260308163216.png",
+    "Tags/Comandos SQL.md",
+    "Matérias/Tecnologia da informação/Banco de dados/Modelos de dados/Modelagem conceitual de dados/Modelo entidade Relacionamento (MER).md",
+    "Matérias/Tecnologia da informação/Banco de dados/Conceitos e Fundamentos de Modelo Relacional",
+    "Matérias/Tecnologia da informação/Banco de dados/Modelos de dados/Modelo de dados lógico/Normalização.md",
+    "Untitled.canvas",
+    "2026-02-25.md",
+    "Untitled.base",
+    "Assets/Pasted image 20260225200052.png",
+    "Matérias/Tecnologia da informação/Banco de dados/Modelos de dados/Modelos de dados.md",
+    "Tags/Modelo de dados lógico.md",
+    "Matérias/Tecnologia da informação/Banco de dados/Modelos de dados/Modelo de dados lógico",
+    "Matérias/Tecnologia da informação/Banco de dados/Modelos de dados",
+    "Assets/Pasted image 20260222162546.png",
+    "Assets/Pasted image 20260222160732.png",
+    "Tags/Teoria dos conjuntos.md",
+    "Assets/Pasted image 20260209204906.png",
+    "Tags/Subclasse.md",
+    "Tags/Superclasse.md",
+    "Tags/Modelagem conceitual de dados.md",
+    "Tags/Banco de dados.md",
+    "Matérias/Tecnologia da informação/Banco de dados/Modelos de dados/Modelagem conceitual de dados",
+    "Matérias/Tecnologia da informação/Banco de dados",
+    "Matérias/Tecnologia da informação",
+    "Matérias",
+    "Welcome.md"
+  ]
+}
