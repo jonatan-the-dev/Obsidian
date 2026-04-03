@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Conteúdos/Língua Portuguesa/Tópico 1/Ortografia/Acentuação.md",
+                "file": "Conteúdos/Língua Portuguesa/Tópico 1/Morfologia/Grupo dos verbos/Verbo.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Acentuação"
+              "title": "Outline of Verbo"
             }
           },
           {
@@ -194,7 +194,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "71ab5ea2da6be78b",
+  "active": "1ccb4980e71f3cf3",
   "lastOpenFiles": [
     "Conteúdos/Língua Portuguesa/Tópico 1/Morfologia/Grupo dos nomes/Pronome.md",
     "Conteúdos/Língua Portuguesa/Tópico 1/Morfologia/Grupo dos nomes/Adjetivo.md",
