@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "07de15ad0683c087",
+        "id": "ad102785adb60b46",
         "type": "tabs",
         "children": [
           {
-            "id": "ebe5895c7a6a448b",
+            "id": "1198ad43d48b2c3d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -194,16 +194,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ebe5895c7a6a448b",
+  "active": "1198ad43d48b2c3d",
   "lastOpenFiles": [
-    "Tags/Sintaxe do período simples.md",
+    "Conteúdos/Língua Portuguesa/Tópico 1/Sintaxe do período simples/Concordância verbal.md",
     "Conteúdos/Língua Portuguesa/Tópico 1/Sintaxe do período simples/Sujeito.md",
+    "Conteúdos/Língua Portuguesa/Tópico 1/Sintaxe do período simples/Locução verbal.md",
+    "Conteúdos/Língua Portuguesa/Tópico 1/Estudo do verbo/Principais verbos.md",
+    "Tags/Verbos.md",
+    "Conteúdos/Língua Portuguesa/Tópico 1/Locuções.jpg",
+    "Tags/Sintaxe do período simples.md",
     "Conteúdos/Língua Portuguesa/Tópico 1/Morfologia/Grupo dos conectores/Preposição.md",
     "Conteúdos/Língua Portuguesa/Tópico 1/Sintaxe do período simples/Ordem direta da oração.md",
     "Conteúdos/Língua Portuguesa/Tópico 1/Sintaxe do período simples/Untitled",
     "Conteúdos/Língua Portuguesa/Tópico 1/Morfologia/Grupo dos conectores/Conjunção.md",
     "Conteúdos/Língua Portuguesa/Tópico 1/Morfologia/Grupo dos verbos/Advérbio.md",
-    "Conteúdos/Língua Portuguesa/Tópico 1/Locuções.jpg",
     "Assets/Pasted image 20260404084152.png",
     "Assets/Pasted image 20260404083656.png",
     "Conteúdos/Língua Portuguesa/Tópico 1/Morfologia/Grupo dos nomes/Pronome.md",
@@ -226,10 +230,6 @@
     "Tags/Ortografia.md",
     "Tags/Língua Portuguesa.md",
     "Tags/Ditongo.md",
-    "Tags/Sílabas.md",
-    "Tags/Tonicidade.md",
-    "Conteúdos/Língua Portuguesa/Tópico 1/Ortografia/Emprego das letras.md",
-    "Conteúdos/Língua Portuguesa/Tópico 1/Ortografia.md",
     "Conteúdos/Língua Portuguesa/Tópico 1/Fonética e fonologia",
     "Conteúdos/Língua Portuguesa/Tópico 1/Tópicos especiais de morfologia",
     "Conteúdos/Língua Portuguesa/Tópico 1/Estudo do verbo",
