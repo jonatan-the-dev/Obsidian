@@ -1,0 +1,1 @@
+Um verbo é considerado impessoal quando ele expressa uma ação ou estado que não pode ser atribuído a nenhum sujeito.
