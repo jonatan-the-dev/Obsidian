@@ -1,4 +1,4 @@
-Tags: [[Língua Portuguesa]] | [[Tipos de período composto]]
+Tags: [[Língua Portuguesa]] | [[Tipos de período composto]] | [[Substantivo]]
 
 Classificam-se em:
 	Subjetiva (desempenha função de sujeito);
